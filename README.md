@@ -3,6 +3,12 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinicius Moura</h1>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -17,7 +23,15 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)&nbsp;
-<br><br><br><br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
